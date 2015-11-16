@@ -1,0 +1,12 @@
+# must be unique in a given SonarQube instance
+sonar.projectKey=aws:spend:summary
+
+# this is the name displayed in the SonarQube UI
+sonar.projectName=CEET_Synnefo_AWSSpend
+sonar.projectVersion=3.0.5
+
+sonar.sources=src
+ 
+# List of the module identifiers
+sonar.modules=	
+

@@ -1,0 +1,5 @@
+SonarQube Runner 2.4
+Java 1.7.0_80 Oracle Corporation (64-bit)
+Linux 3.13.0-24-generic amd64
+INFO: Runner configuration file: /home/amila/pearsonRelated/sonar-runner-2.4/conf/sonar-runner.properties
+INFO: Project configuration file: /home/amila/learning-metirials/sample-projects/java/my-app/sonar-project.properties
